@@ -1,0 +1,3 @@
+Attempt the following by writing C++ code and using conditional operators
+determine:
+Whether a character entered through the keyboard is a special symbol or not.
